@@ -1,3 +1,5 @@
+package boardgame;
+
 public class ChessMatch {
 
     private int turn;

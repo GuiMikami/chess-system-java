@@ -1,3 +1,5 @@
+package boardgame;
+
 public enum Color{
     public static Color getColor(int colorCode) {
         for (Color c : Color.values()) {
